@@ -8,8 +8,7 @@ operations = {
     "+": add,
     "-": sub,
     "*": mul,
-    "/": truediv
-}
+    "/": truediv}
 
 default_font_size = 16
 default_entry_font_size = 40
